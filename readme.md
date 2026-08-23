@@ -10,6 +10,11 @@ It is a simple minimal rear camera viewer android app.
 
 ---
 
+## Android APK
+Download the APK from the GitHub Releases:
+
+👉 [**Download APK**](https://github.com/akarshit-1609/camera-view/releases/download/v1.1.0/camera-view-v1.1.0.apk)
+
 ## Features
  - 📷 Fullscreen Camera — Displays the camera feed across the entire screen.
  - 🧼 Clean UI — No buttons, menus, overlays, or unnecessary interface elements.
