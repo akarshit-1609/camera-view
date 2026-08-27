@@ -1,4 +1,4 @@
-# Rear Camera View
+# Camera View
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 
 </div>
 
-It is a simple minimal rear camera viewer android app. 
+It is a simple minimal camera viewer android app. 
 
 ---
 
