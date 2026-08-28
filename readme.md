@@ -13,7 +13,7 @@ It is a simple minimal camera viewer android app.
 ## Android APK
 Download the APK from the GitHub Releases:
 
-👉 [**Download APK**](https://github.com/akarshit-1609/camera-view/releases/download/v1.1.1/camera-view-v1.1.1.apk)
+👉 [**Download APK**](https://github.com/akarshit-1609/camera-view/releases/download/v1.2.0/camera-view-v1.2.0.apk)
 
 ## Features
  - 📷 Fullscreen Camera — Displays the camera feed across the entire screen.
@@ -23,10 +23,23 @@ Download the APK from the GitHub Releases:
  - ⚡ Simple & Lightweight — Built around a single purpose with a minimal interface.
  - 📱 Immersive Display — Uses the available screen space for an uninterrupted camera view.
  - 👁️ Distraction-Free — Ideal when you simply want to see the camera feed without visual clutter.
-Concept
+
+### Concept
 
 **The goal of this app is simplicity: open the app and see the camera.**<br>
 There are no controls to learn and no unnecessary UI elements—just a clean, fullscreen camera preview.
+
+---
+
+## How It Works
+The app uses a **double-tap gesture** to toggle between the two available cameras.
+
+### Camera Toggle
+ - Double-tap anywhere on the screen.
+ - If the **back camera** is active, it switches to the **front camera**.
+ - If the **front camera** is active, it switches to the **back camera**.
+
+ ---
 
 ## Use Case
  - This app can be useful for situations where a continuously visible camera feed is preferred without additional controls or interface distractions.
