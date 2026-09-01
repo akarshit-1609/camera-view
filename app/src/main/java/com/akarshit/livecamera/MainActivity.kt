@@ -125,6 +125,7 @@ fun CameraPreview(lensFacing: Int) {
         cameraProviderFuture.addListener({
             val cameraProvider = cameraProviderFuture.get()
 
+            previewView.keepScreenOn = true
             val preview = Preview.Builder().build().also {
                 it.setSurfaceProvider(previewView.surfaceProvider)
             }
