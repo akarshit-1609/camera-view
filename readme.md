@@ -13,7 +13,7 @@ It is a simple minimal camera viewer android app.
 ## Android APK
 Download the APK from the GitHub Releases:
 
-👉 [**Download APK**](https://github.com/akarshit-1609/camera-view/releases/download/v1.2.0/camera-view-v1.2.0.apk)
+👉 [**Download APK**](https://github.com/akarshit-1609/camera-view/releases/download/v1.2.1/camera-view-v1.2.1.apk)
 
 ## Features
  - 📷 Fullscreen Camera — Displays the camera feed across the entire screen.
